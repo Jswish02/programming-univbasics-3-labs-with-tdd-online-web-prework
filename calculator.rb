@@ -1,2 +1,3 @@
 # Add your variables here
-first_number = "hello world"
+first_number + second_number = sum 
+first_number * second_number = product
